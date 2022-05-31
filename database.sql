@@ -59,7 +59,7 @@ CREATE TABLE `user` (
 --
 -- Indexes for table `todo`
 --
-ALTER TABLE `todo`
+ALTER TABLE `register`
   ADD PRIMARY KEY (`id`);
 
 --
@@ -75,7 +75,7 @@ ALTER TABLE `user`
 --
 -- AUTO_INCREMENT for table `todo`
 --
-ALTER TABLE `todo`
+ALTER TABLE `register`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --

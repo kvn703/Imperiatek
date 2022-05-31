@@ -1,5 +1,6 @@
-import React from 'react'
+import React, { Component } from 'react'
 import './index.css'
+import {useHistory} from 'react-router-dom'
 
 export default function Connexion() {
     return (

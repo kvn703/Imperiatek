@@ -1,0 +1,42 @@
+label {
+    color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display:block;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.form {
+    margin:0 auto;
+    padding: 90px 0 90px 0;
+    justify-content: center;
+    display: flex;
+    width: 500px;
+    box-shadow: 11px 12px 13px 13px rgb(207, 207, 207);
+    border:1px solid black;
+    border-radius: 60px;
+    background-color: grey;
+    border-color: red;
+}
+
+input {
+    display:block;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.anim {
+    text-align: center;
+    border: 0;
+    border-bottom: 3px solid #999;
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.trans {
+    color:aqua;
+}
